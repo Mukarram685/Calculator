@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+ul li{
+  border: solid black;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#functions li{
+  height: 2rem;
+}
+
+@tailwind utilities;
