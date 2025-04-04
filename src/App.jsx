@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="min-h-screen flex items-center justify-center">
-      <div className="w-full max-w-md p-4 shadow-md rounded-lg bg-gray-700">
+      <div className="w-full max-w-sm p-4 shadow-md rounded-lg bg-gray-700">
         <div className="flex flex-col">
           <section className="text-center pb-3 mb-3">
             <input
